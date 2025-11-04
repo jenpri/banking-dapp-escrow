@@ -1,5 +1,5 @@
 **banking-dapp-escrow**
-**Blockchain Banking DAPP using solidity, remix, ganache and metamask
+**Blockchain Banking DAPP using solidity, remix, ganache and metamask.  
 **Student:Jenny Matarrita Zúñiga (2023104)  
 **Lecturer:Dr. Muhammad Iqbal  
 **Project Overview**
