@@ -8,8 +8,7 @@ It represents a blockchain-based escrow service where a bank acts as an arbiter 
 
 **Tech Stack**
 - Solidity (Remix IDE) — Smart contract logic  
-- Ganache — Local blockchain for testing  
-- MetaMask — Wallet & transaction signing    
+    
 - GitHub — Version control   
 **Objectives**
 - Design a blockchain solution for Banking & Financial Services.
