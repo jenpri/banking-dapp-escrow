@@ -5,6 +5,7 @@
 **Project Overview**
 This Decentralized Application (DApp) demonstrates a banking escrow model using Solidity, Remix IDE, Ganache, and MetaMask.  
 It represents a blockchain-based escrow service where a bank acts as an arbiter between a sender and receiver, providing a transparent and secure transaction process.
+
 **Tech Stack**
 - Solidity (Remix IDE) — Smart contract logic  
 - Ganache — Local blockchain for testing  
